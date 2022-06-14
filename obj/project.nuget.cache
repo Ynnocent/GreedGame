@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SHe7x9gDPY4rJzejn6YDZ/8tCbLYSW5HvDEs1/r5jgna81Wtoqo5IJmAjFMh4ByGQ5/0pXqc2x7oqKuS8tgyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pluce\\OneDrive\\Desktop\\cse210-01-main\\School\\greedgame\\greedgame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pluce\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\pluce\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
